@@ -11,6 +11,7 @@ const CodeSnippet = () => {
       <pre>
         <PrismCode className="language-javascript">
           {`
+  import React from 'react';
   import {AbstractChart} from 'react-highcharts-wrapper';
 
   const PieChart = () => (
