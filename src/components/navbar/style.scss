@@ -1,7 +1,10 @@
 
 .navbar {
-  background: whitesmoke !important;
-  border-bottom: 1px solid white;
+  background: #363636 !important;
+  border-bottom: 1px solid rgba(white, .2);
+}
+.navbar-link.is-active, .navbar-link:hover, a.navbar-item.is-active, a.navbar-item:hover {
+  background-color: black !important;
 }
 
 .navbar-brand {

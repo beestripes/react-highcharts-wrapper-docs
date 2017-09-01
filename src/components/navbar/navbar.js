@@ -10,7 +10,7 @@ const NavBar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <a className="navbar-item" href="https://react-highcharts-wrapper.firebaseapp.com">
+        <a className="navbar-item" href="https://www.npmjs.com/package/react-highcharts-wrapper" target="_blank">
           <code>react-highcharts-wrapper</code>
         </a>
       </div>
