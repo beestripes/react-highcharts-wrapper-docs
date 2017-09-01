@@ -10,11 +10,11 @@ import style from './style.scss';
 const SnapshotValue = () => {
   return (
     <div className={style.snapshotValue}>
-      <div className="columns">
-        <div className="column is-5">
+      <div className="columns is-tablet is-desktop">
+        <div className="column is-6-desktop">
           <CodeSnippet />
         </div>
-        <div className="column is-7">
+        <div className="column is-6-desktop">
           <div className="card is-shadowless">
             <div className="card-content">
               <PieChart />

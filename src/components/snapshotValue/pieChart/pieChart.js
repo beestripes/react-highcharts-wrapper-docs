@@ -10,7 +10,7 @@ const PieChart = () => {
     <AbstractChart config={{
       chart: {
         type: 'pie',
-        width: win.innerWidth < 700 ? 500 : 700,
+        width: win.innerWidth < 700 ? 400 : 550,
       },
       title: {
         text: '',
