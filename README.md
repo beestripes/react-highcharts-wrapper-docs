@@ -1,5 +1,5 @@
 
-# react-highcharts-wrapper Docs
+# react-highcharts-wrapper docs
 
-Documentation site for [https://www.npmjs.com/package/react-highcharts-wrapper](react-highcharts-wrapper).
+Documentation site used for [https://www.npmjs.com/package/react-highcharts-wrapper](this npm package) at (this Github Repository)[https://www.npmjs.com/package/react-highcharts-wrapper].
 
