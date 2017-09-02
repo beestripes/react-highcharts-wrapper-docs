@@ -10,14 +10,14 @@ const NavBar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-brand">
-        <a className="navbar-item" href="https://www.npmjs.com/package/react-highcharts-wrapper" target="_blank">
+        <a className="navbar-item" href="https://www.npmjs.com/package/react-highcharts-wrapper" target="_blank" rel="noopener noreferrer">
           <code>react-highcharts-wrapper</code>
         </a>
       </div>
-      <div className="navbar-menu">
+      <div className="navbar-menu is-active">
         <div className="navbar-end">
           <div className="navbar-brand">
-            <a className="navbar-item" href="https://beestripes.io" target="_blank">
+            <a className="navbar-item" href="https://beestripes.io" target="_blank" rel="noopener noreferrer">
               <img src={BeeStripesLogo} />
             </a>
           </div>
