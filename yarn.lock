@@ -5233,11 +5233,9 @@ react-error-overlay@^2.0.0:
     settle-promise "1.0.0"
     source-map "0.5.6"
 
-react-highcharts-wrapper@^0.0.10:
-  version "0.0.10"
-  resolved "https://registry.yarnpkg.com/react-highcharts-wrapper/-/react-highcharts-wrapper-0.0.10.tgz#4d81dfaa27f156cb63a8061d3ce3cfe895f8ec1d"
-  dependencies:
-    prop-types "^15.5.10"
+react-highcharts-wrapper@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/react-highcharts-wrapper/-/react-highcharts-wrapper-1.0.2.tgz#d52432cc82aa65d680c59ca40a85cba7edc23674"
 
 react-prism@^4.3.0:
   version "4.3.0"

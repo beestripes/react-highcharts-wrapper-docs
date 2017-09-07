@@ -37,7 +37,7 @@
     "react": "^15.6.1",
     "react-dev-utils": "^4.0.0",
     "react-dom": "^15.6.1",
-    "react-highcharts-wrapper": "^0.0.10",
+    "react-highcharts-wrapper": "^1.0.2",
     "react-prism": "^4.3.0",
     "style-loader": "0.18.2",
     "sw-precache-webpack-plugin": "0.11.4",
