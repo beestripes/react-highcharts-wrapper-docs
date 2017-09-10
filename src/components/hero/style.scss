@@ -1,5 +1,32 @@
 
+$highcharts-blue: rgb(124, 181, 236);
+$highcharts-blue-hover: rgb(149, 206, 255);
+
 .mainHero {
   //margin-top: -4em;
   //margin-bottom: 4em;
+}
+
+.proofsP {
+  margin-top: 2rem;
+  a {
+    border-radius: 2rem;
+    font-weight: 500;
+
+    &.is-highcharts-blue {
+      color: $highcharts-blue;
+      border-color: $highcharts-blue;
+      background: none;
+
+      &:hover,
+      &:focus,
+      &:active,
+      &.active {
+        color: #363636;
+        border-color: #363636;
+        background: $highcharts-blue-hover;
+        transition: 200ms all;
+      }
+    }
+  }
 }

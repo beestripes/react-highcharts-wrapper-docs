@@ -3,7 +3,7 @@ import React from 'react';
 
 import BeeStripesLogo from './beestripes-logo.png';
 
-import style from './style.scss';
+import './style.scss';
 
 
 const NavBar = () => {
