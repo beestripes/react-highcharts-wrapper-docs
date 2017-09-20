@@ -2937,7 +2937,7 @@ he@1.1.x:
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
 highcharts@^5.0.14:
-  version v5.0.14
+  version "5.0.14"
   resolved "https://registry.yarnpkg.com/highcharts/-/highcharts-5.0.14.tgz#0ef14cca9f1345408568b533dae1478950d96810"
 
 hmac-drbg@^1.0.0:
@@ -5233,9 +5233,9 @@ react-error-overlay@^2.0.0:
     settle-promise "1.0.0"
     source-map "0.5.6"
 
-react-highcharts-wrapper@^1.0.2:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/react-highcharts-wrapper/-/react-highcharts-wrapper-1.0.2.tgz#d52432cc82aa65d680c59ca40a85cba7edc23674"
+react-highcharts-wrapper@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/react-highcharts-wrapper/-/react-highcharts-wrapper-1.1.0.tgz#e5ca689e281b02b41860fb5bd19e6ff8db014d9c"
 
 react-prism@^4.3.0:
   version "4.3.0"
